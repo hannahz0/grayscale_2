@@ -1,0 +1,1 @@
+This basic shader turns the screen solid red (aside from misc render passes like clouds). See [shaders/deferred.fsh](shaders/deferred.fsh) for more
